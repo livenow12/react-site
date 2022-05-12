@@ -6,9 +6,9 @@ import {SiGmail} from 'react-icons/si'
 const HeaderSocials = () => {
   return (
     <div className='header__socials'>
-        <a href="https://linkedin.com" target="_blank"><BsLinkedin /></a>
-        <a href="https://t.me/L1veNow" target="_blank"><FaTelegram /></a>
-        <a href="https://df059669@gmail.com" target="_blank"><SiGmail /></a>
+        <a href="https://linkedin.com"><BsLinkedin /></a>
+        <a href="https://t.me/L1veNow" ><FaTelegram /></a>
+        <a href="https://df059669@gmail.com" ><SiGmail /></a>
     </div>
   )
 }

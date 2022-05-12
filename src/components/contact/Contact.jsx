@@ -17,7 +17,7 @@ const Contact = () => {
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
             <h5>dilwodCoder@gmail.com</h5>
-            <a href="">Send a message</a>
+            <a href=" ">Send a message</a>
             
           </article>
 
@@ -25,7 +25,7 @@ const Contact = () => {
             <RiTelegramLine className='contact__option-icon'/>
             <h4>Messenger</h4>
             <h5>Telegram</h5>
-            <a href="">Send a message</a>
+            <a href=" ">Send a message</a>
             
           </article>
 
@@ -33,7 +33,7 @@ const Contact = () => {
             < BsInstagram className='contact__option-icon'/>
             <h4>Instagram</h4>
             <h5>Example.com</h5>
-            <a href="">Send a message</a>
+            <a href=" ">Send a message</a>
             
           </article>
 
